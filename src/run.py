@@ -1,7 +1,7 @@
 # coding: utf-8
 
 from app import SearchResult, Song, Artist
-import user_input as user_input
+import user_input
 
 
 if __name__ == "__main__":
